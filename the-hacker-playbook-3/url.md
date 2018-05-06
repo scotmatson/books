@@ -3,7 +3,7 @@
 * https://nakedsecurity.sophos.com/2012/02/20/jail-facebook-ethical-hacker/
 * https://www.cyberscoop.com/dji-bug-bounty-drone-technology-sean-melia-kevin-finisterre/
 * https://www.eff.org/pages/legal-assistance
-* http://thehackerplaybook/updates
+* http://thehackerplaybook.com/updates/
 
 # Introduction
 * http://www.pentest-standard.org
