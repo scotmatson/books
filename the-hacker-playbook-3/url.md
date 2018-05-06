@@ -10,3 +10,6 @@
 * http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks
 * https://en.wikipedia.org/wiki/Sony_Pictures_hack
 * https://www.esecurityplanet.com/network-security/almost-a-third-of-all-u.s.-businesses-were-breached-in-2017.html
+
+# 1 Pregame - The Setup
+* https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf
