@@ -23,3 +23,6 @@
 * https://blog.cobaltstrike.com/2016/09/28/cobalt-strike-rce-active-exploitation-reported/
 * https://medium.com/@s.on/running-metasploit-on-kali-linux-docker-aws-ec2-instance-a2f7d7310b2b
 * https://github.com/coalfire-research/red-baron
+* https://github.com/rapid7/metasploit-framework/commits/master
+* https://github.com/trustedsec/unicorn
+* https://github.com/rapid7/metasploit-framework/wiki/meterpreter-paranoid-mode
