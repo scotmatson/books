@@ -13,3 +13,13 @@
 
 # 1 Pregame - The Setup
 * https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf
+* https://attack.mitre.org/wiki/ATT&CK_Matrix
+* https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=361554658
+* https://github.com/redcanaryco/atomic-red-team/blob/master/Windows/README.md
+* https://www.digitalocean.com/products/compute
+* https://lightsail.aws.amazon.com
+* https://aws.amazon.com/service-terms/
+* https://github.com/trustedsec/ptf
+* https://blog.cobaltstrike.com/2016/09/28/cobalt-strike-rce-active-exploitation-reported/
+* https://medium.com/@s.on/running-metasploit-on-kali-linux-docker-aws-ec2-instance-a2f7d7310b2b
+* https://github.com/coalfire-research/red-baron
