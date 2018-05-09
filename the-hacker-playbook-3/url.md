@@ -55,6 +55,7 @@
 * https://github.com/Ne0nd0g/merlin
 * https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
 * https://github.com/samratashok/nishang
+* http://thehackerplaybook.com/get.php?type=THP-vm
 
 # 2 Before The Snap - Red Team Recon
 ...
