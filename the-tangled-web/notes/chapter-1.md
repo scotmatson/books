@@ -1,5 +1,6 @@
-1. [Secure Computer System: Unified Exposition and Multics Interpretation](http://csrc.nust.gov/publications/history/bell76.pdf)
+1. [Secure Computer System: Unified Exposition and Multics Interpretation](http://csrc.nist.gov/publications/history/bell76.pdf)
 2. [A Security Model for Military Message Systems: Retrospective](http://www.acsa-admin.org/2001/papers/141.pdf)
+  * [Alt. Source](https://www.researchgate.net/profile/John_Mclean2/publication/2532539_A_Security_Model_for_Military_Message_Systems_Retrospective/links/00b49517802d676033000000/A-Security-Model-for-Military-Message-Systems-Retrospective.pdf)
 3. [As We May Think](http://www.theatlantic.com/doc/194507/bush/)
 4. [Why Phishing Works](http://people.seas.harvard.edu/~rachna/papers/why_phishing_works.pdf)
 5. [An Evaluation of Extended Validation and Picture-in-Picture Phishing Attacks](http://usablesecurity.org/papers/jackson.pdf)
