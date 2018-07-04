@@ -1,0 +1,8 @@
+1. [Secure Computer System: Unified Exposition and Multics Interpretation](http://csrc.nust.gov/publications/history/bell76.pdf)
+2. [A Security Model for Military Message Systems: Retrospective](http://www.acsa-admin.org/2001/papers/141.pdf)
+3. [As We May Think](http://www.theatlantic.com/doc/194507/bush/)
+4. [Why Phishing Works](http://people.seas.harvard.edu/~rachna/papers/why_phishing_works.pdf)
+5. [An Evaluation of Extended Validation and Picture-in-Picture Phishing Attacks](http://usablesecurity.org/papers/jackson.pdf)
+6. [Beware of Finer-Grained Origins](http://seclab.stanford.edu/websec/origins/fgo.pdf)
+7. [Beware of Coarser-Grained Origins](http://seclab.stanford.edu/websec/origins/scheme/)
+8. [Security Exploit Uses Internet Explorer to Attack Mozilla Firefox](http://www.mozillazine.org/talkback/.html?article=22198)
