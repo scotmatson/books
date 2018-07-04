@@ -15,4 +15,4 @@
 15. [The Secure HyperText Transfer Protocol](http://www.ietf.org/rfc/rfc2660.txt)
 16. [The 'data' URL Scheme](http://www.ietf.org/rfc/rfc2397.txt)
 17. [What Are rss: and feed: Links?](http://www.brindys.com/winrss/feedformat.html)
-18. [A Note on an MHTML Vulnerability](http://lcamtuf.blogspot.com/2011/03/note-on/mhtml-vulnerability.html)
+18. [A Note on an MHTML Vulnerability](http://lcamtuf.blogspot.com/2011/03/note-on-mhtml-vulnerability.html)
